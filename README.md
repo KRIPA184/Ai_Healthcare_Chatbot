@@ -1,5 +1,5 @@
 
-base_model: TheBloke/Llama-2-7B-Chat-GGML
+Base_model: TheBloke/Llama-2-7B-Chat-GGML
 pipeline_tag: question-answering
 library_name: transformers
 tags:
